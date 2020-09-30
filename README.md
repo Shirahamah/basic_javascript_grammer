@@ -3,9 +3,9 @@
 ### 01~05
 - [x] 01 JavaScriptを学ぼう
 - [x] 02 はじめてのJavaScript
-- [ ] 03 別ファイルから実行してみよう
-- [ ] 04 エラーを修正してみよう
-- [ ] 05 文字列を扱ってみよう
+- [x] 03 別ファイルから実行してみよう
+- [x] 04 エラーを修正してみよう
+- [x] 05 文字列を扱ってみよう
  - Issue  
     https://github.com/Shirahamah/basic_javascript_grammer/issues    
  - 成果物  
