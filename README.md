@@ -1,19 +1,19 @@
 ## 詳解javascript 基礎文法編 (全26回) 進捗確認
 
 ### 01~05
-- [ ] 01 JavaScriptを学ぼう
-- [ ] 02 はじめてのJavaScript
-- [ ] 03 別ファイルから実行してみよう
-- [ ] 04 エラーを修正してみよう
-- [ ] 05 文字列を扱ってみよう
+- [x] 01 JavaScriptを学ぼう
+- [x] 02 はじめてのJavaScript
+- [x] 03 別ファイルから実行してみよう
+- [x] 04 エラーを修正してみよう
+- [x] 05 文字列を扱ってみよう
  - Issue  
     https://github.com/Shirahamah/basic_javascript_grammer/issues    
  - 成果物  
-    https://shirahamah.github.io/dotinstall_basic_javascript/01/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/02/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/03/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/04/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/05/  
+    https://shirahamah.github.io/basic_javascript_grammer/01/  
+    https://shirahamah.github.io/basic_javascript_grammer/02/  
+    https://shirahamah.github.io/basic_javascript_grammer/03/  
+    https://shirahamah.github.io/basic_javascript_grammer/04/  
+    https://shirahamah.github.io/basic_javascript_grammer/05/  
 
 ### 06~10
 - [ ] 06 数値の計算をしてみよう
@@ -24,11 +24,11 @@
  - Issue  
     https://github.com/Shirahamah/basic_javascript_grammer/issues  
  - 成果物  
-    https://shirahamah.github.io/dotinstall_basic_javascript/06/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/07/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/08/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/09/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/10/  
+    https://shirahamah.github.io/basic_javascript_grammer/06/  
+    https://shirahamah.github.io/basic_javascript_grammer/07/  
+    https://shirahamah.github.io/basic_javascript_grammer/08/  
+    https://shirahamah.github.io/basic_javascript_grammer/09/  
+    https://shirahamah.github.io/basic_javascript_grammer/10/  
 
 ### 11~15
 - [ ] 11 数字からなる文字列を扱ってみよう
@@ -39,11 +39,11 @@
  - Issue  
     https://github.com/Shirahamah/basic_javascript_grammer/issues  
  - 成果物  
-    https://shirahamah.github.io/dotinstall_basic_javascript/11/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/12/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/13/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/14/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/15/  
+    https://shirahamah.github.io/basic_javascript_grammer/11/  
+    https://shirahamah.github.io/basic_javascript_grammer/12/  
+    https://shirahamah.github.io/basic_javascript_grammer/13/  
+    https://shirahamah.github.io/basic_javascript_grammer/14/  
+    https://shirahamah.github.io/basic_javascript_grammer/15/  
 
 ### 16~20
 - [ ] 16 switchで条件分岐をしてみよう
@@ -54,11 +54,11 @@
  - Issue  
     https://github.com/Shirahamah/basic_javascript_grammer/issues  
  - 成果物  
-    https://shirahamah.github.io/dotinstall_basic_javascript/16/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/17/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/18/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/19/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/20/  
+    https://shirahamah.github.io/basic_javascript_grammer/16/  
+    https://shirahamah.github.io/basic_javascript_grammer/17/  
+    https://shirahamah.github.io/basic_javascript_grammer/18/  
+    https://shirahamah.github.io/basic_javascript_grammer/19/  
+    https://shirahamah.github.io/basic_javascript_grammer/20/  
 
 ### 21~26
 - [ ] 21 引数を使ってみよう
@@ -70,9 +70,9 @@
  - Issue  
     https://github.com/Shirahamah/basic_javascript_grammer/issues  
  - 成果物  
-    https://shirahamah.github.io/dotinstall_basic_javascript/21/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/22/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/23/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/24/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/25/  
-    https://shirahamah.github.io/dotinstall_basic_javascript/26/  
+    https://shirahamah.github.io/basic_javascript_grammer/21/  
+    https://shirahamah.github.io/basic_javascript_grammer/22/  
+    https://shirahamah.github.io/basic_javascript_grammer/23/  
+    https://shirahamah.github.io/basic_javascript_grammer/24/  
+    https://shirahamah.github.io/basic_javascript_grammer/25/  
+    https://shirahamah.github.io/basic_javascript_grammer/26/  
