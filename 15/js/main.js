@@ -9,6 +9,7 @@ const name = 'taguchi';
 //     }
 // }
 
+
 // && なおかつ  (AND)
 // || もしくは  (OR)
 // ! ～ではない (NOT)
