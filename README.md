@@ -31,11 +31,11 @@
     https://shirahamah.github.io/basic_javascript_grammer/10/  
 
 ### 11~15
-- [ ] 11 数字からなる文字列を扱ってみよう
-- [ ] 12 比較演算子を使ってみよう
-- [ ] 13 ifで条件分岐をしてみよう
-- [ ] 14 条件演算子を使ってみよう
-- [ ] 15 理論演算子を使ってみよう
+- [x] 11 数字からなる文字列を扱ってみよう
+- [x] 12 比較演算子を使ってみよう
+- [x] 13 ifで条件分岐をしてみよう
+- [x] 14 条件演算子を使ってみよう
+- [x] 15 理論演算子を使ってみよう
  - Issue  
     https://github.com/Shirahamah/basic_javascript_grammer/issues  
  - 成果物  
