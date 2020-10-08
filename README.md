@@ -7,7 +7,7 @@
 - [x] 04 エラーを修正してみよう
 - [x] 05 文字列を扱ってみよう
  - Issue  
-    https://github.com/Shirahamah/basic_javascript_grammer/issues    
+    https://github.com/Shirahamah/basic_javascript_grammer/issues/2    
  - 成果物  
     https://shirahamah.github.io/basic_javascript_grammer/01/  
     https://shirahamah.github.io/basic_javascript_grammer/02/  
@@ -22,7 +22,7 @@
 - [ ] 09 変数を使った計算をしてみよう
 - [ ] 10 データ型について見ていこう
  - Issue  
-    https://github.com/Shirahamah/basic_javascript_grammer/issues  
+    https://github.com/Shirahamah/basic_javascript_grammer/issues/4  
  - 成果物  
     https://shirahamah.github.io/basic_javascript_grammer/06/  
     https://shirahamah.github.io/basic_javascript_grammer/07/  
@@ -37,7 +37,7 @@
 - [x] 14 条件演算子を使ってみよう
 - [x] 15 理論演算子を使ってみよう
  - Issue  
-    https://github.com/Shirahamah/basic_javascript_grammer/issues  
+    https://github.com/Shirahamah/basic_javascript_grammer/issues/6  
  - 成果物  
     https://shirahamah.github.io/basic_javascript_grammer/11/  
     https://shirahamah.github.io/basic_javascript_grammer/12/  
@@ -46,13 +46,13 @@
     https://shirahamah.github.io/basic_javascript_grammer/15/  
 
 ### 16~20
-- [ ] 16 switchで条件分岐をしてみよう
-- [ ] 17 forを使ったループ処理をしてみよう
-- [ ] 18 whileを使ったループ処理をしよう
-- [ ] 19 continue、breakを使ってみよう
-- [ ] 20 関数で処理をまとめてみよう
+- [x] 16 switchで条件分岐をしてみよう
+- [x] 17 forを使ったループ処理をしてみよう
+- [x] 18 whileを使ったループ処理をしよう
+- [x] 19 continue、breakを使ってみよう
+- [x] 20 関数で処理をまとめてみよう
  - Issue  
-    https://github.com/Shirahamah/basic_javascript_grammer/issues  
+    https://github.com/Shirahamah/basic_javascript_grammer/issues/7  
  - 成果物  
     https://shirahamah.github.io/basic_javascript_grammer/16/  
     https://shirahamah.github.io/basic_javascript_grammer/17/  
@@ -63,7 +63,7 @@
 ### 21~26
 - [ ] 21 引数を使ってみよう
 - [ ] 22 returnで値を返してみよう
-- [ ] 23 関数式を使ってみよう
+- [ ] 23 関数式を使ってみよう  
 - [ ] 24 アロー関数を使ってみよう
 - [ ] 25 スコープについて理解しよう
 - [ ] 26 コードをブロックで囲っておこう
