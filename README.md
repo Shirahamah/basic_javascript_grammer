@@ -7,7 +7,7 @@
 - [x] 04 エラーを修正してみよう
 - [x] 05 文字列を扱ってみよう
  - Issue  
-    https://github.com/Shirahamah/basic_javascript_grammer/issues    
+    https://github.com/Shirahamah/basic_javascript_grammer/issues/2    
  - 成果物  
     https://shirahamah.github.io/basic_javascript_grammer/01/  
     https://shirahamah.github.io/basic_javascript_grammer/02/  
@@ -22,7 +22,7 @@
 - [ ] 09 変数を使った計算をしてみよう
 - [ ] 10 データ型について見ていこう
  - Issue  
-    https://github.com/Shirahamah/basic_javascript_grammer/issues  
+    https://github.com/Shirahamah/basic_javascript_grammer/issues/4  
  - 成果物  
     https://shirahamah.github.io/basic_javascript_grammer/06/  
     https://shirahamah.github.io/basic_javascript_grammer/07/  
@@ -37,7 +37,7 @@
 - [ ] 14 条件演算子を使ってみよう
 - [ ] 15 理論演算子を使ってみよう
  - Issue  
-    https://github.com/Shirahamah/basic_javascript_grammer/issues  
+    https://github.com/Shirahamah/basic_javascript_grammer/issues/6  
  - 成果物  
     https://shirahamah.github.io/basic_javascript_grammer/11/  
     https://shirahamah.github.io/basic_javascript_grammer/12/  
@@ -52,7 +52,7 @@
 - [x] 19 continue、breakを使ってみよう
 - [x] 20 関数で処理をまとめてみよう
  - Issue  
-    https://github.com/Shirahamah/basic_javascript_grammer/issues  
+    https://github.com/Shirahamah/basic_javascript_grammer/issues/7  
  - 成果物  
     https://shirahamah.github.io/basic_javascript_grammer/16/  
     https://shirahamah.github.io/basic_javascript_grammer/17/  
