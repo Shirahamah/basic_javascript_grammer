@@ -46,11 +46,11 @@
     https://shirahamah.github.io/basic_javascript_grammer/15/  
 
 ### 16~20
-- [ ] 16 switchで条件分岐をしてみよう
-- [ ] 17 forを使ったループ処理をしてみよう
-- [ ] 18 whileを使ったループ処理をしよう
-- [ ] 19 continue、breakを使ってみよう
-- [ ] 20 関数で処理をまとめてみよう
+- [x] 16 switchで条件分岐をしてみよう
+- [x] 17 forを使ったループ処理をしてみよう
+- [x] 18 whileを使ったループ処理をしよう
+- [x] 19 continue、breakを使ってみよう
+- [x] 20 関数で処理をまとめてみよう
  - Issue  
     https://github.com/Shirahamah/basic_javascript_grammer/issues  
  - 成果物  
