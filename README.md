@@ -16,11 +16,11 @@
     https://shirahamah.github.io/basic_javascript_grammer/05/  
 
 ### 06~10
-- [ ] 06 数値の計算をしてみよう
-- [ ] 07 定数を使ってみよう
-- [ ] 08 変数を使ってみよう
-- [ ] 09 変数を使った計算をしてみよう
-- [ ] 10 データ型について見ていこう
+- [x] 06 数値の計算をしてみよう
+- [x] 07 定数を使ってみよう
+- [x] 08 変数を使ってみよう
+- [x] 09 変数を使った計算をしてみよう
+- [x] 10 データ型について見ていこう
  - Issue  
     https://github.com/Shirahamah/basic_javascript_grammer/issues  
  - 成果物  
@@ -61,12 +61,12 @@
     https://shirahamah.github.io/basic_javascript_grammer/20/  
 
 ### 21~26
-- [ ] 21 引数を使ってみよう
-- [ ] 22 returnで値を返してみよう
-- [ ] 23 関数式を使ってみよう
-- [ ] 24 アロー関数を使ってみよう
-- [ ] 25 スコープについて理解しよう
-- [ ] 26 コードをブロックで囲っておこう
+- [x] 21 引数を使ってみよう
+- [x] 22 returnで値を返してみよう
+- [x] 23 関数式を使ってみよう
+- [x] 24 アロー関数を使ってみよう
+- [x] 25 スコープについて理解しよう
+- [x] 26 コードをブロックで囲っておこう
  - Issue  
     https://github.com/Shirahamah/basic_javascript_grammer/issues  
  - 成果物  
